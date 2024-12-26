@@ -1,0 +1,36 @@
+Do you like broccoli?
+Yes, I do.
+Yes, I do. 
+Do you like ice cream?
+Yes, I do. 
+Yes, I do.
+Do you like broccoli ice cream?
+No, I don't.
+Yucky!
+Do you like donuts?
+Yes, I do.
+Yes, I do.
+Do you like juice?
+Yes, I do.
+Yes, I do.
+Do you like donut juice?
+No, I don't.
+Yucky!
+Do you like popcorn? 
+Yes, I do.
+Yes, I do.
+Do you like pizza?
+Yes, I do.
+Yes, I do.
+Do you like popcorn pizza?
+No, I don't.
+Yucky!
+Do you like bananas?
+Yes, I do.
+Yes, I do.
+Do you like soup?
+Yes, I do. 
+Yes, I do.
+Do you like banana soup?
+No, I don't.
+Yuck!
